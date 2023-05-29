@@ -1,0 +1,20 @@
+{
+  "name": "binary-decimal-converter",
+  "version": "1.0.1",
+  "description": "decimal and binary parsers for javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samdev18/binary-decimal-converter.git"
+  },
+  "author": "samdev18 <samuel@jssolution.com.br> (http://jssolution.com.br/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samdev18/binary-decimal-converter/issues"
+  },
+  "homepage": "https://github.com/samdev18/binary-decimal-converter#readme"
+}
